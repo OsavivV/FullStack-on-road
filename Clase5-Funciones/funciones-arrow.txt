@@ -1,0 +1,23 @@
+function dameCinco() {                     
+    return [1,2,3,4,5];                   let dameCinco= () =>              {return [1,2,3,4,5]}
+}
+
+function multiplicarPorDos() {
+  return 123 * 2 ;                        let multiplicarPorDos = () =>     {return 123 *2}
+}
+
+function mostrarNombre() {
+  return "Mi nombre es Hernán";           let mostrarNombre= () =>          {return "Mi nombre es Hernán"}
+}
+
+function saludar(nombre) {
+    return 'Hola, ' + nombre + '!';        let saludar =nombre => 'Hola, ' + nombre + '!'
+}
+
+
+function saludar(nombre, apellido) {                  let saludar=(nombre, apellido) => ('Hola, ' + nombre + ' ' +  apellido + '!')
+ return 'Hola, ' + nombre + ' ' +  apellido + '!';
+}
+
+
+
